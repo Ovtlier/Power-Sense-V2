@@ -1,0 +1,9 @@
+.settings
+*.o
+*.d
+*.su
+*.cyclo
+*.xml
+*.mk
+*.list
+*.launch
